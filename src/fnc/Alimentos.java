@@ -1,0 +1,7 @@
+package fnc;
+
+public enum Alimentos{
+
+	ALFAJORES,BAGELS,BOCADITOS_DE_CHOCOLATE, CARAMELOS, GOMITAS,MASITAS;
+
+}
